@@ -29,7 +29,7 @@
 "AUTO_REACT_STATUS":
     {
       "description":"Enter yes for your bot to auto react status",
-      "value":"yes",
+      "value":"no",
       "required":false
     },
 "ANTICALL":
@@ -78,7 +78,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"BWM-XMD",
+      "value":"꧁𝑬𝒍𝒐𝒏 𝑴𝒖𝒔𝒌 𝑻𝑽꧂",
       "required":false
 
     } ,
@@ -92,7 +92,7 @@
     "PUBLIC_MODE":
     {
       "description":"type yes to put your bot on public mode or no to put it on private mod",
-      "value":"yes",
+      "value":"no",
       "required":false
     }
 	,
@@ -118,7 +118,7 @@
     
     "desc": "Owner name",
     "required": false,
-    "value": "𝐈𝐛𝐫𝐚𝐡𝐢𝐦 𝐀𝐝𝐚𝐦𝐬"
+    "value": "꧁𝑬𝒍𝒐𝒏 𝑴𝒖𝒔𝒌 𝑻𝑽꧂"
   },
     "SESSION_ID":{
     "description":"put your session ID , the code you received from from ibrahim adams site",   
@@ -139,7 +139,7 @@
   },
   "PRESENCE":{
     "description":"Mark your presence: 1 to indicate that you are online even if you are not. 2 to indicate that you are currently typing a message. 3 to indicate that you are currently recording an audio. Or leave the field blank to indicate your real state.",
-    "value":"",
+    "value":"1",
     "required": false
   },
   "ANTIDELETE" : {
